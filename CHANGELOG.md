@@ -3,6 +3,14 @@
 What's new in each OmacVM release. The release notes on GitHub say the same
 in more words.
 
+## 3.0.17
+
+- OmacVM.app: the **start animation** (OMACVM turning into Omarchy's logo) plays again in full
+  screen. A full-screen start keeps the window invisible until macOS has it in full screen, and the
+  animation ran meanwhile: with **Full screen including notch** it was over before the window
+  showed, and a normal full-screen start lost part of OMACVM's hold. Now it starts when the window
+  shows (#352).
+
 ## 3.0.16
 
 Full screen including the notch, without Omanotch: a new, experimental way to start a VM in OmacVM.app.
