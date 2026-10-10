@@ -3,7 +3,7 @@
 What's new in each OmacVM release. The release notes on GitHub say the same
 in more words.
 
-## 3.0.17 (unreleased)
+## 3.0.17
 
 - OmacVM.app: the **start animation** (OMACVM turning into Omarchy's logo) plays again in full
   screen. A full-screen start keeps the window invisible until macOS has it in full screen, and the
